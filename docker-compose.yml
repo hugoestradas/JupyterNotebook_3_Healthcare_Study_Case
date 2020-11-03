@@ -9,4 +9,3 @@ services:
       - "5006:5006"
     volumes:
       - ./bokeh-app/:/home/jovyan/work/bokeh-app/
-      
